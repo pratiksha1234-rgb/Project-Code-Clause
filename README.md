@@ -78,7 +78,7 @@ My CSV file (`customer_data.csv`) should include at least the following columns:
 
 ---
 
-## What You Learn
+## What I Learnt
 
 - Customer behavior clustering with unsupervised learning
 - Text preprocessing (tokenization, lemmatization, stopword removal)
